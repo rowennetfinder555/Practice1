@@ -26,7 +26,7 @@ Each feature vector (row in the feature matrix) consists of 784 pixels (intensit
 
 ### Loading MNIST
 
-- The description and code from [chapter 12](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/blob/master/code/ch12/ch12.ipynb#Obtaining-the-MNIST-dataset)
+- The description and code from [chapter 12](http://nbviewer.jupyter.org/github/rowennetfinder555/Practice1/blob/master/code/ch12/ch12.ipynb#Obtaining-the-MNIST-dataset)
 
 In addition, I added to convenience function to one of my external machine learning packages
 

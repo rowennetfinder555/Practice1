@@ -10,7 +10,7 @@ Just drop me your question, feedback, or suggestion via your medium of choice an
 - [mailing List](https://groups.google.com/forum/#!forum/python-machine-learning-book)
 - [private email](mailto:mail@sebastianraschka.com)
 - [twitter](https://twitter.com/rasbt)
-- [GitHub Issue Tracker](https://github.com/rasbt/python-machine-learning-book/issues)
+- [GitHub Issue Tracker](https://github.com/rowennetfinder555/Practice1/issues)
 
 Cheers,
 Sebastian

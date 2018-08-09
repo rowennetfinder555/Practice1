@@ -1,5 +1,5 @@
 # Python Machine Learning by Sebastian Raschka, Packt Publishing Ltd. 2015
-# Code Repository: https://github.com/rasbt/python-machine-learning-book
+# Code Repository: https://github.com/rowennetfinder555/Practice1
 # Code License: MIT License
 
 import numpy as np

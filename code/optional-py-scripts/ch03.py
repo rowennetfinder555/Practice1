@@ -4,10 +4,10 @@
 # Chapter 3 - A Tour of Machine Learning Classifiers Using Scikit-Learn
 #
 # S. Raschka. Python Machine Learning. Packt Publishing Ltd., 2015.
-# GitHub Repo: https://github.com/rasbt/python-machine-learning-book
+# GitHub Repo: https://github.com/rowennetfinder555/Practice1
 #
 # License: MIT
-# https://github.com/rasbt/python-machine-learning-book/blob/master/LICENSE.txt
+# https://github.com/rowennetfinder555/Practice1/blob/master/LICENSE.txt
 
 
 import numpy as np
